@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Siguiente...</string>
+    <string name="correct_toast">Correctoooo!!!</string>
+    <string name="incorrect_toast">Mmmmm... intentalo de nuevo campeón.</string>
+    <string name="question_oceans">EL ocaeano pacifico es mas largo que el oceano Atlantico.</string>
+    <string name="question_africa">El comienzo del rio Amazonas esta en Egipto.</string>
+    <string name="question_americas">El rio amazonas es el mas largo de america.</string>
+    <string name="question_asia">El canal de suez conecta el mar rojo y la india.</string>
+    <string name="question_mideast">EL ocaeano pacifico es mas largo que el oceano Atlantico</string>
+</resources>
